@@ -1,0 +1,9 @@
+/* your styles go here */
+
+#hero {
+    background-image: url("/images/author.jpg")
+}
+
+#statistics {
+    background-image: url("/images/parallax.jpg")
+}

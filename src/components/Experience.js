@@ -6,7 +6,7 @@ const Experience = () => {
             <section id="experience">
                 <div className="container">
                     <header className="mb-5 pb-4">
-                        <p className="font-weight-bold text-prim text-uppercase letter-spacing-3">Yes. I've been around.</p>
+                        <p className="font-weight-bold text-prim text-uppercase letter-spacing-3">The years teach much <br />which the days never know</p>
                         <h2 className="text-uppercase lined">Experience</h2>
                     </header>
                     <ul className="timeline">

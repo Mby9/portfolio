@@ -6,7 +6,7 @@ const About = () => {
             <section className="bg-light" id="about">
                 <div className="container">
                     <header className="mb-5">
-                        <p className="font-weight-bold text-prim text-uppercase letter-spacing-3">Innovative solutions</p>
+                        <p className="font-weight-bold text-prim text-uppercase letter-spacing-3">In the social jungle of <br />human existence</p>
                         <h2 className="text-uppercase lined">Who Am I?</h2>
                     </header>
                     <p className="lead text-muted">I'm a <strong className="text-dark">Software Engineer</strong> with more than 3 years of experience in web development. Working on Java and JavaScript, I am interested in building full-stack web applications. </p>

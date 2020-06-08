@@ -3,7 +3,7 @@ import React from 'react';
 const Techstack = () => {
     return (
         <div>
-            <section id="customers" className="customers-section bg-gray">
+            <section id="techstack" className="customers-section bg-gray">
                 <div className="container">
                     <div className="col-md-12">
                         <header className="mb-5 pb-4">

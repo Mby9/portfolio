@@ -13,9 +13,10 @@ const Navbar = () => {
                             <ul className="navbar-nav ml-auto">
                                 <li className="nav-item"><a className="nav-link link-scroll active" href="#hero">Home <span className="sr-only">(current)</span></a></li>
                                 <li className="nav-item"><a className="nav-link link-scroll" href="#about">About</a></li>
-                                <li className="nav-item"><a className="nav-link link-scroll" href="#expertise">Expertise</a></li>
-                                <li className="nav-item"><a className="nav-link link-scroll" href="#education">Education</a></li>
                                 <li className="nav-item"><a className="nav-link link-scroll" href="#experience">Experience</a></li>
+                                <li className="nav-item"><a className="nav-link link-scroll" href="#education">Education</a></li>
+                                <li className="nav-item"><a className="nav-link link-scroll" href="#testimonials">Testimonials</a></li>
+                                <li className="nav-item"><a className="nav-link link-scroll" href="#projects">Projects</a></li>
                                 <li className="nav-item"><a className="nav-link link-scroll" href="#contact">Contact</a></li>
                             </ul>
                         </div>

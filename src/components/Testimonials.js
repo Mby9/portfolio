@@ -27,7 +27,7 @@ const Testimonials = () => {
                         <li className="testimonial-item col-md-4" key="2">
                             <div className="testimonial">
                                 <div className="testimonial-body">
-                                    <p>Over enthusiast tech-savvy person. This is the best way to describe Mayank's as a developer. He is always passionate towards his work, which makes him a must have person in the team. He will always pick the difficult task, put his brains and gives you the results with his perfect blend of required skills.</p>
+                                    <p>Over enthusiast tech-savvy person. This is the best way to describe Mayank as a developer. He is always passionate about his work, which makes him a must-have person on the team. He will always pick the difficult task, put his brains and gives you the results with his perfect blend of required skills.</p>
                                     <i className="fas fa-quote-right"></i>
                                 </div>
                                 <div className="testimonial-footer">

@@ -24,7 +24,7 @@ const Education = () => {
                             <div className="timeline-arrow"></div>
                             <div className="row no-gutter">
                                 <div className="col-lg-5 mb-4 mb-lg-0">
-                                    <p className="font-weight-bold mb-2 text-prim text-small">Mar 2000 - Feb 2021 </p>
+                                    <p className="font-weight-bold mb-2 text-prim text-small">Mar 2020 - Feb 2021 </p>
                                     <h2 className="h5 mb-0 text-uppercase">PGD in Full-stack Development</h2>
                                     <p className="text-small mb-0">IIIT Bangalore</p><span className="small text-muted">Bangalore, KA</span>
                                 </div>

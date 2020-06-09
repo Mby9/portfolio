@@ -20,7 +20,7 @@ const Experience = () => {
                                 </div>
                                 <div className="col-lg-7">
                                     <p className="text-muted">Leading the product development process through design, documentation and planning. Also, asserting efficiency of the team through sprint planning, task allocation, brain-storming, issue resolution and code reviews.</p>
-                                    <p className="text-muted">Worked closely with the client (INCOIS, Hyderabad) for ensuring robustness of the product while dealing with large data sets for working on GIS and Oceanography.</p>
+                                    <p className="text-muted">Worked closely with the client (INCOIS, Hyderabad) for ensuring the robustness of the product while dealing with large data sets for working on GIS and Oceanography.</p>
                                 </div>
                             </div>
                         </li>
@@ -33,8 +33,8 @@ const Experience = () => {
                                     <p className="text-small mb-0">Software Engineer</p><span className="small text-muted">Noida, UP</span>
                                 </div>
                                 <div className="col-lg-7">
-                                    <p className="text-muted">Worked with the client, Wellcare, to develop Enrollment Apllication for Medicaid and Medicare. Along with add-on applications wuch as Appeals and Grievance and Provider-Contracting.</p>
-                                    <p className="text-muted">Worked on the development of a FATCA compliance portal for Revenue Departments of countries such as Antigua, Barbados, Bahamas and Dominican Republic.</p>
+                                    <p className="text-muted">Worked with the client, Wellcare, to develop Enrollment Application for Medicaid and Medicare. Along with add-on applications such as Appeals and Grievance and Provider-Contracting.</p>
+                                    <p className="text-muted">Worked on the development of a FATCA compliance portal for Revenue Departments of countries such as Antigua, Barbados, Bahamas and the Dominican Republic.</p>
                                 </div>
                             </div>
                         </li>
